@@ -1,0 +1,13 @@
+StatusCode        : 200
+StatusDescription : OK
+ rel="alternate"; hreflang="fi",<https://www.helsinki.fi/sv>; rel="alternate";                                                    /ogp.me/ns#">
+                    hreflang="sv",<https://www.helsinki.fi/en>; rel="alternate"; hreflang="en",<https://www.helsinki.fi/en/frontpajavascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:fal...ge>; rel="revision"],
+                    [X-UA-Compatible, IE=edge], [Content-language, en]...}                                                        tlink", <https://www.helsinki.fi/en>; rel="canonical",<https://www.helsinki.fi/fi>;        
+Images            : {}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT id=pid-145767 type=hidden value=145767 name=pid>; outerText=; tagN://www.helsinki.fi/en>; rel="shortlink", <https://www.helsinki.fi/en>; ame=INPUT; id=pid-145767;                                         rel="alternate"; hreflang="fi",<https://www.helsinki.fi/sv>; rel="alternate"; 
+                    type=hidden; value=145767; name=pid}}        el="alternate"; hreflang="en",<https://www.helsinki.fi/en/frontpage>; rel="revision"],     
+Links             : {@{innerHTML=Skip to main content ; innerText, en]...}=Skip to main content ; outerHTML=<A class="visually-hidden focusable"                                                            d=pid-145767 type=hidden value=145767 name=pid>; outerText=; tagName=INPUT; id=pid-145767; 
+                    href="#main-content">Skip to main content </A>; outerText=Skip to main content ; tagName=A; class=visually-hid=Skip to main content ; outerHTML=<A class="visually-hidden focusable"den focusable;                                                   >; outerText=Skip to main content ; tagName=A; class=visually-hidden focusable;
+                    href=#main-content}}
+ParsedHtml        : System.__ComObject
+RawContentLength  : 333489
