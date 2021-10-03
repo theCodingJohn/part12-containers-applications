@@ -51,4 +51,9 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  1 file changed, 40 insertions(+)
- create mode 100644 sc
+ create mode 100644 script-answers/exercise12_2.txt
+]0;root@PS2020DUUCBXXO: /mnt/d/theCodingJohn/part12-containers-applications-mainroot@PS2020DUUCBXXO:/mnt/d/theCodingJohn/part12-containers-applications-main# git pusho [K[K origin deve[K[K[K[Kmain
+Username for 'https://github.com': theCodingJohn
+Password for 'https://theCodingJohn@github.com': 
+fatal: unable to access 'https://github.com/theCodingJohn/part12-containers-applications.git/': The requested URL returned error: 400
+]0;root@PS2020DUUCBXXO: /mnt/d/t
